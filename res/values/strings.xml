@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">SumSum</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    <string name="large_text">Large Text</string>
+    <string name="TextView">TextView</string>
+    <string name="ingresenumero">Ingrese Numero</string>
+    <string name="sumar">Sumar</string>
+    <string name="title_activity_second">Resultado</string>
+    <string name="ingresar">Ingresar un numero</string>
+
+</resources>
